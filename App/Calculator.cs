@@ -151,10 +151,11 @@ class Calculator
 
     public void Sum()
     {
+        
         Console.WriteLine("Enter the number of values:");
         int count = Convert.ToInt32(Console.ReadLine());
         double sum = 0;
-
+        // take n numbers from user and add them
         for (int i = 1; i <= count; i++)
         {
             Console.WriteLine($"Enter number {i}:");
