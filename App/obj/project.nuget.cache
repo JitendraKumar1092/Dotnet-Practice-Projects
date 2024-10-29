@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g2uTA9eSRQm483gD6TsvD3vIHEpmFRYMLRHuLLBQVL8mEedljPokuEZuGnXaUaRv9WgYdXEgSuFPipwY7uvWlA==",
+  "success": true,
+  "projectFilePath": "/home/kai/Desktop/workspace/Capgemini-Training/App/App.csproj",
+  "expectedPackageFiles": [
+    "/home/kai/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
